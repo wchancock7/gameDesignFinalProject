@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://wchancock7.github.io/gamedesignfinalproject/](https://wchancock7.github.io/gamedesignfinalproject/)
+> Open this page at [https://wchancock7.github.io/gamedesignfinalproject/](https://wchancock7.github.io/gameDesignFinalProject/)
 
 ## Use as Extension
 
